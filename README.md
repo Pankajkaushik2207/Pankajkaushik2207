@@ -72,3 +72,8 @@
     <img src="https://komarev.com/ghpvc/?username=Pankajkaushik2207">
 </a>
 <a href="https://github.com/Pankajkaushik2207?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajkaushik2207&theme=monokai"  display=block width=100% height=auto  alt="1" >
+   
