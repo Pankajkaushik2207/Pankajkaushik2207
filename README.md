@@ -11,6 +11,14 @@
   <li>📫 How to Reach me, pankajkaushik042@gmail.com</li>  
 </ul>
 
+
+**Badges & Certifications**  
+<br/>
+<a href="https://www.credly.com/badges/0a07079a-08b1-4410-878a-81029bc5ba10/public_url">
+  <img align="centre" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="100px" src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+</a>
+
+
 ## My skills :
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -24,6 +32,7 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
+<code><img height="20" src="https://www.greenmarimba.com/files/sites/229/2020/01/aws-cloud.png"></code>
   
 <!-- Profile Stats code   -->
   
