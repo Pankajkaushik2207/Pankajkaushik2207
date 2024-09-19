@@ -7,7 +7,7 @@
   <li>👋 Hi, I’m Pankaj Kaushik</li>
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Web Development and Data Structures and Alogrithms.</li>
-  <li>💼 I'm a 4th year student at VIT</li>
+  <li>💼 I'm a Software Engineer Trainee at Revature</li>
   <li>📫 How to Reach me, pankajkaushik042@gmail.com</li>  
 </ul>
 
